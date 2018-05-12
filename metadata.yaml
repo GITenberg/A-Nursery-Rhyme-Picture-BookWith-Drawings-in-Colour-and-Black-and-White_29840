@@ -16,6 +16,8 @@ creator:
 description: An illustrated collection of twenty-one Mother Goose nursery rhymes,
   including "Hickety Pickety My Black Hen," "The Three Wise Men of Gotham," and "The
   Lion and the Unicorn."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29840#A-Nursery-Rhyme-Picture-BookWith-Drawings-in-Colour-and-Black-and-White
 gutenberg_issued: '2009-08-28'
 gutenberg_type: Text
 identifiers:
